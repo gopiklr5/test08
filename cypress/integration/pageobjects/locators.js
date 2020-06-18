@@ -1,0 +1,1 @@
+export const loginlink = () => cy.get('#loginLink');

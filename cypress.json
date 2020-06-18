@@ -1,0 +1,8 @@
+{
+    "baseUrl":"http://eaapp.somee.com/",
+
+    "env":{
+
+        "name":"admin"
+    }
+}
