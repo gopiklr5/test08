@@ -1,8 +1,7 @@
 {
-    "baseUrl":"http://eaapp.somee.com/",
-
-    "env":{
-
-        "name":"admin"
-    }
+  "baseUrl": "http://eaapp.somee.com/",
+  "env": {
+    "name": "admin"
+  },
+  "projectId": "uqcwqt"
 }
